@@ -35,4 +35,3 @@ I build fast, scalable, and production-ready web applications. Specialized in mo
 
 ### 📬 Connect & Hire Me
 - 📧 Email: Louiejaemaravillosa24@gmail.com
-- 📝 Upwork / Freelance Profile: [Your Link]
