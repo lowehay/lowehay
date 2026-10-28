@@ -22,13 +22,12 @@ I build fast, scalable, and production-ready web applications. Specialized in mo
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- 🎨 **Custom Landing Pages:** High-converting, fast, responsive landing pages built with React and Tailwind CSS.
-
 ---
 
 ### 🚀 Key Projects & Live Demos
 - 🏫 **LMS Platform (Learning Management System):** Custom multi-tenant learning portal built with React, Django REST Framework, and PostgreSQL.
 - ☕ **Restaurant / POS Management System:** Full-stack order and inventory system featuring real-time state management.
+- 🎨 **Custom Landing Pages:** High-converting, fast, responsive landing pages built with React and Tailwind CSS.
 - 💼 **Portfolio Website:** [my-portfolio-louie-six.vercel.app](https://my-portfolio-louie-six.vercel.app/)
 
 ---
