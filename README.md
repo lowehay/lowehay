@@ -15,7 +15,7 @@ I build fast, scalable, and production-ready web applications. Specialized in mo
 ### 🚀 Key Projects & Live Demos
 - 🏫 **LMS Platform (Learning Management System):** Custom multi-tenant learning portal built with React, Django REST Framework, and PostgreSQL.
 - ☕ **Restaurant / POS Management System:** Full-stack order and inventory system featuring real-time state management.
-- 💼 **Portfolio Website:** [[Insert Live Demo Link Here](https://my-portfolio-louie-six.vercel.app/)]
+- 💼 **Portfolio Website:** [(https://my-portfolio-louie-six.vercel.app/)]
 
 ---
 
